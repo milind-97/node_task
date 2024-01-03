@@ -1,4 +1,3 @@
-# infeedo_task
 
 before runnnig the code please install nodejs npm and mongooose on your machine.
 steps to run the code
